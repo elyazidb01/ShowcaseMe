@@ -1,0 +1,22 @@
+# IDE
+.idea/
+*.iml
+
+# Build
+build/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Java
+*.class
+
+# Node
+node_modules/
+dist/
+.env
