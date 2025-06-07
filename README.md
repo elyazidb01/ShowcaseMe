@@ -10,8 +10,8 @@
 - Backend Java (Spring Boot) / Frontend React.js
 
 ## Stack
-- Java Spring Boot + PostgreSQL
-- React.js + Tailwind CSS
-- JWT / Cloudinary / Vercel / Railway
+- Java Spring Boot + MySQL
+- React.js + Boostrap
+- JWT
 
 ## Démarrage
